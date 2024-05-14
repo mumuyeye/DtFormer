@@ -64,7 +64,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;通过将域差距拆分为两部分，$S \rightarrow \mathcal{M}$解决风格特征的解耦问题，而$\overline{S} \rightarrow T$则处理包含雾的复杂风格差距。这种策略显著减小了模型面对的域差距，提高了在雾天条件下的表现和适应能力。
 
-![训练时整体 Pipeline](image/README/1715682370511.png)
+![训练时整体 Pipeline](image/README/4f8e68b497e34088206ece200f8fe4fe.png)
 
 ## 专利和软著
 
